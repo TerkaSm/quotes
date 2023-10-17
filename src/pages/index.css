@@ -23,13 +23,13 @@ body {
   max-width: 400px;
   padding: 40px;
   margin: 0 auto;
-  height: 100vh;
+  height: 87vh;
   font-weight: 700;
 }
 
 .quote__content {
   font-size: 36px;
-  line-height: 2;
+  line-height: 1.8;
   text-align: center;
 }
 
