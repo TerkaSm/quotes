@@ -1,6 +1,6 @@
 # quotes
 
-#Citát
+# Citát
 Vyzkoušejte si založení vlastního Vite projektu s jednoduchou stránkou.
 
 1. Založte nový Vite projekt s názvem quotes:
