@@ -33,4 +33,7 @@ export const chooseRandomItem = () => {
     return randomQuote;  // Vrátí náhodný objekt z pole
   };
 
-console.log(chooseRandomItem());
+// Refresh stránky na kliknutí
+document.addEventListener('click', function() {
+  location.reload();
+});
